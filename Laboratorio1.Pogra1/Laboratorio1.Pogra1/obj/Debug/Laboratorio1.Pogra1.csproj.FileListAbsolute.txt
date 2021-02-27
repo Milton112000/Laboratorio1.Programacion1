@@ -1,0 +1,10 @@
+C:\Users\USUARIO\Documents\GitHub\Laboratorio1.Programacion1\Laboratorio1.Pogra1\Laboratorio1.Pogra1\bin\Debug\Laboratorio1.Pogra1.exe.config
+C:\Users\USUARIO\Documents\GitHub\Laboratorio1.Programacion1\Laboratorio1.Pogra1\Laboratorio1.Pogra1\bin\Debug\Laboratorio1.Pogra1.exe
+C:\Users\USUARIO\Documents\GitHub\Laboratorio1.Programacion1\Laboratorio1.Pogra1\Laboratorio1.Pogra1\bin\Debug\Laboratorio1.Pogra1.pdb
+C:\Users\USUARIO\Documents\GitHub\Laboratorio1.Programacion1\Laboratorio1.Pogra1\Laboratorio1.Pogra1\obj\Debug\Laboratorio1.Pogra1.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\GitHub\Laboratorio1.Programacion1\Laboratorio1.Pogra1\Laboratorio1.Pogra1\obj\Debug\Laboratorio1.Pogra1.Properties.Resources.resources
+C:\Users\USUARIO\Documents\GitHub\Laboratorio1.Programacion1\Laboratorio1.Pogra1\Laboratorio1.Pogra1\obj\Debug\Laboratorio1.Pogra1.Form1.resources
+C:\Users\USUARIO\Documents\GitHub\Laboratorio1.Programacion1\Laboratorio1.Pogra1\Laboratorio1.Pogra1\obj\Debug\Laboratorio1.Pogra1.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\GitHub\Laboratorio1.Programacion1\Laboratorio1.Pogra1\Laboratorio1.Pogra1\obj\Debug\Laboratorio1.Pogra1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\GitHub\Laboratorio1.Programacion1\Laboratorio1.Pogra1\Laboratorio1.Pogra1\obj\Debug\Laboratorio1.Pogra1.exe
+C:\Users\USUARIO\Documents\GitHub\Laboratorio1.Programacion1\Laboratorio1.Pogra1\Laboratorio1.Pogra1\obj\Debug\Laboratorio1.Pogra1.pdb
